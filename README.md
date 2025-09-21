@@ -1,5 +1,5 @@
 # Genre-Field
-My website I created called genre field. 
+My website I created called Genre Field. 
 # 🎶 GenreField
 
 Welcome to **GenreField**, a site dedicated to exploring and diving deep into different music genres and subgenres.  
@@ -22,4 +22,4 @@ The goal is to showcase how genres mix, evolve, and what makes each sound unique
 ---
 
 ## 📬 Contact
-Feel free to share feedback or suggestions via GitHub Issues!
+Feel free to share feedback!
